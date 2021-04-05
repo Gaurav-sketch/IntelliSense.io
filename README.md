@@ -11,7 +11,7 @@ Documents attached are :
 
 2.Config - This contains the URL and the Browser name that can changed as per requirement.
 
-3.pages file - This contains  Dashboard page file with all
+3.pages file - This contains  Dashboard page component.
 
 4.util - This contains the util like timeout etc that can be adjusted as per the needs.
 
